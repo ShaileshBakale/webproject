@@ -1,0 +1,76 @@
+#imgdata{
+    width: 1000px;
+    margin-left: 0px;
+}
+.h1
+{
+    font-weight: bold;
+}
+
+
+
+#img-web{
+    width:750px;
+    height:400px;
+}
+
+.img-fluid{
+    width: 900px;
+    height:200px;
+
+}
+
+.jumbotron {
+    padding: 0rem 7rem;
+    display: flex;
+    background-color:#907469;
+    color:white;
+}
+
+.jumbotron .lead{
+    text-decoration: double;
+    text-shadow: #B1A3B9;
+}
+
+.text1{
+    color: #EAEEDB;
+}
+
+
+.carousel-caption p{
+    font-synthesis-small-caps: 20px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer{
+    margin-top: 200px;
+    height: 500px;
+    background-color: #907469;
+    
+}
+
+.navbar{
+     background-color: #78625B;
+    
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.reg{
+    color: white;
+    background-color: #61514B;
+
+}
+.btn-primary{
+    color:white;
+    background-color:#61514B;
+}
